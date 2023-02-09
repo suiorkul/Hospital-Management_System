@@ -51,6 +51,7 @@ Password Encryption:
 
 Bcrypt Encoding is used for password encryption. Bcrypt is a password hashing function designed by Niels Provos and David Mazières. It is based on the Blowfish cipher. Bcrypt uses adaptive hash algorithm to store password. BCrypt internally generates a random salt while encoding passwords and hence it is obvious to get different encoded results for the same string. But one common thing is that everytime it generates a String of length 60.
 Snapshots-
-
+Home page:
 ![alt text](https://github.com/suiorkul/Hospital-Management_System/blob/master/screenshots/home.png)
-![alt text](https://github.com/suiorkul/Hospital-Management_System/blob/master/screenshots/doctor page.png)
+Doctor page:
+![alt text](https://github.com/suiorkul/Hospital-Management_System/blob/master/screenshots/doctor%20page.png)
