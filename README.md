@@ -53,5 +53,8 @@ Bcrypt Encoding is used for password encryption. Bcrypt is a password hashing fu
 Snapshots-
 Home page:
 ![alt text](https://github.com/suiorkul/Hospital-Management_System/blob/master/screenshots/home.png)
+
+
+
 Doctor page:
 ![alt text](https://github.com/suiorkul/Hospital-Management_System/blob/master/screenshots/doctor%20page.png)
